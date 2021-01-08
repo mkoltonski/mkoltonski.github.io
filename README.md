@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Klisé
 
 Klisé is minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
@@ -59,3 +60,6 @@ Yeaaa feel free to open a pull request.
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+=======
+# mkoltonski.github.io
+>>>>>>> 0fcdb5b0156c5d4aa0cc1c393bdd478a161dccfa
